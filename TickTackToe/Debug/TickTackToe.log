@@ -1,0 +1,16 @@
+﻿Сборка начата 19.07.2017 1:37:15.
+     1>Проект "C:\Users\Игорь\Documents\visual studio 2013\Projects\TickTackToe Re\TickTackToe\TickTackToe.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\SFML-2.4.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_DYNAMIC /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Functions.cpp
+         Functions.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TickTackToe Re\Debug\TickTackToe.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\SFML-2.4.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TickTackToe Re\Debug\TickTackToe.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TickTackToe Re\Debug\TickTackToe.lib" /MACHINE:X86 Debug\BaseAccount.obj
+         Debug\Functions.obj
+         Debug\main.obj
+         Debug\Player.obj
+         TickTackToe.vcxproj -> C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TickTackToe Re\Debug\TickTackToe.exe
+     1>Сборка проекта "C:\Users\Игорь\Documents\visual studio 2013\Projects\TickTackToe Re\TickTackToe\TickTackToe.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.50

@@ -1,0 +1,29 @@
+﻿Сборка начата 08.07.2017 17:59:59.
+     1>Проект "C:\Users\Игорь\documents\visual studio 2013\Projects\TickTackToe\TickTackToe\TickTackToe.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\SFML-2.4.2\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D SFML_DYNAMIC /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BaseAccount.cpp GameScripts.cpp Graphic.cpp main.cpp Player.cpp
+         BaseAccount.cpp
+         GameScripts.cpp
+         Graphic.cpp
+     1>Graphic.cpp(77): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Graphic.cpp(96): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Graphic.cpp(98): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>Graphic.cpp(107): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Graphic.cpp(116): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Graphic.cpp(118): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+         main.cpp
+         Player.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Игорь\documents\visual studio 2013\Projects\TickTackToe\Release\TickTackToe.exe" /NOLOGO /LIBPATH:"D:\SFML-2.4.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Игорь\documents\visual studio 2013\Projects\TickTackToe\Release\TickTackToe.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Игорь\documents\visual studio 2013\Projects\TickTackToe\Release\TickTackToe.lib" /MACHINE:X86 /SAFESEH Release\BaseAccount.obj
+         Release\GameScripts.obj
+         Release\Graphic.obj
+         Release\main.obj
+         Release\Player.obj
+         Создание кода
+         Создание кода завершено
+         TickTackToe.vcxproj -> C:\Users\Игорь\documents\visual studio 2013\Projects\TickTackToe\Release\TickTackToe.exe
+     1>Сборка проекта "C:\Users\Игорь\documents\visual studio 2013\Projects\TickTackToe\TickTackToe\TickTackToe.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.73
